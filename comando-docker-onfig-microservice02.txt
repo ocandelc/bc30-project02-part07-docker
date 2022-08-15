@@ -2,4 +2,4 @@ cd C:\Program Files\Docker\Docker\DockerCli.exe -SwitchDaemon
 
 cd C:\OCANDELC\06-github-bc30-project02\bc30-project02-part05-config-microservice02
 docker build -t bc30-project02-part05-config-microservice02-docker .
-docker run -d -p 2081:8081 bc30-project02-part05-config-microservice02-docker
+docker run -d -p 2082:8081 bc30-project02-part05-config-microservice02-docker
